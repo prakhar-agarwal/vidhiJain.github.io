@@ -19,10 +19,17 @@ feature:
 ### Honors and Awards
 <hr>
 
-- National Finalist, BuildTheShield, a Computer Security hackathon by MICROSOFT (Country Rank-15)
-- IBM Bluemix Hackathon (Finished 2nd in a 24hrs event)
-- Selected for INSPIRE scholarship, 2012
-- 99.99% percentile in National Cyber Olympiad, 2009.(Country Rank-57)
-- Credited with a Scholar Blazer for being a Scholar in Sir Padampat Singhania Education Centre, Kanpur
-- A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05%)
-- Best Project Award Software Design Adaptive Technology, APOGEE-2014 and Simulation and Mathematical Modelling, APOGEE-2015
+* Represented BITS Pilani in six people panel discussion on ‘Innovation by Young India’ (Sep 15, 2016) 
+** Telecasted on national news channel NDTV India 
+* GE Foundation Scholar­Leaders Scholarship recipient (May 2016) 
+** Only girl among the top 5 students awarded $2000 for two years of study by International Institute of Education  
+* Microsoft ‘Build The Shield’ Grand Finale participant (Mar 19, 2016) 
+** Ranked 15th among top 50 teams all over the country and 29th among 300 teams in round one 
+* University Merit Scholarship recipient (Aug­Dec 2014) 
+** For being in top 5 students out of 900 students  
+* Kishore Vaigyanik Protsahan Yojana (KVPY) Scholar (2013) 
+** Among top 400 out of over 100,000 students, by Department of Science and Technology, Government of India 
+* National Talent Search Exam (NTSE) Scholar (2010) 
+**Ranked in top 100 out of nearly 5,000,000 students in Class 8 by National Council of Educational Research and Training  
+* Ranked in top 1% in National Standard Examination in Junior Science (NSEJS) (2011) 
+** By Homi Bhabha Centre for Science Education (HBCSE), the nodal Centre for Olympiad programmes in India 
