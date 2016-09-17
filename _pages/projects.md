@@ -23,6 +23,7 @@ Project : Semantic data integration for project  ​ BigGIS
 platform of Web APIs Documentation to obtain machine processable format for dynamic integration of services. 
 + Designing a smart generic Client for automated integration of Web APIs and services 
 Project Links: http://www.fzi.de/en/research/projekt­details/biggis/, https://amazonas.fzi.de/docapi/index.php/Main_Page  
+
 ### Technical Volunteer for Mobile applications
 ARISE (Act to Rise for Innovation in Special Education)   
 (May, 2015­Aug 2015)  
